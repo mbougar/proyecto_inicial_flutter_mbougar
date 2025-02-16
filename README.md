@@ -24,9 +24,3 @@ La aplicación busca cumplir con los siguientes objetivos:
 - Permitir la búsqueda de productos dentro de nuestro catálogo.
 - Permitir la administración eficiente del carrito de compras.
 - Establecer una base para un futuro proyecto de aplicación de compra y venta a mayor escala (en vista al TFG).
-
-## Demostración de Funcionamiento
-
-[Video de demostración en Android](./videoMuestra.webm)
-
-
