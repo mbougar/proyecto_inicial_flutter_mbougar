@@ -27,5 +27,6 @@ La aplicación busca cumplir con los siguientes objetivos:
 
 ## Demostración de Funcionamiento
 
-La demostración del funcionamiento de la app se realiza mediante un archivo de vídeo entregado junto a este documento.
+[Video de demostración en Android](./videoMuestra.webm)
+
 
